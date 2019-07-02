@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SeeFood</string>
+    <string name="delicious_food"> Food</string>
+    <string name="not_delicious_food">Not Food</string>
+    <string name="error_taking_picture">Error taking picture</string>
+    <string name="picture_not_taken">Picture Not Taken!</string>
+    <string name="take_picture">TAKE PICTURE</string>
+    <string name="permission_message">I need permission to take pictures :(</string>
+    <string name="OK">OK</string>
+    <string name="error">Error</string>
+    <string name="title_activity_splash">SplashActivity</string>
+</resources>
